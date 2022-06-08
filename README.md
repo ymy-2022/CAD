@@ -4,4 +4,4 @@
 3. a doorhandle for the door in my dorm
 4. a nozzle for rocket club(90 psi air flow)
 5. a metal_squeezer and an animation
-6. severl iterations of nametags
+6. several iterations of nametags
