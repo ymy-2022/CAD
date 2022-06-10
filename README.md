@@ -5,3 +5,4 @@
 4. a nozzle for rocket club(90 psi air flow)
 5. a metal_squeezer and an animation
 6. several iterations of nametags
+7. a model rocket launcher
