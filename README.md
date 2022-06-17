@@ -6,3 +6,5 @@
 5. a metal_squeezer and an animation
 6. several iterations of nametags
 7. a model rocket launcher
+8. a bike fender with a board and connnector
+9. 
