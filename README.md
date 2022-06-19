@@ -7,4 +7,5 @@
 6. several iterations of nametags
 7. a model rocket launcher
 8. a bike fender with a board and connnector
-9. 
+9. a phone stand
+10. a desk leg
